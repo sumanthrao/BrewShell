@@ -1,0 +1,3 @@
+srikar:ls -lha
+sumanth:ps -ef
+varun:du -s

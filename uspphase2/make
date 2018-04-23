@@ -1,0 +1,3 @@
+gcc phase2_mine.c -o phase2_mine
+gnome-terminal -e ./phase2_mine
+rm phase2_mine

@@ -1,0 +1,55 @@
+ls
+mkdir newdir
+ls newdir
+cd newdir
+l
+ls
+prevdir
+pip install pyowm
+[A
+[A
+ls
+cd newdir
+mkdir another
+cd another
+mkdir new
+cd new
+cd ..
+cd ..
+cd ..
+cd ..
+cd shell/newdir/another/new/
+prevdir
+ls
+cd newdir
+ls
+cd ..
+cd newdir/another
+prevdir
+mkdir dir2
+ls
+mkdir dir2
+rmdir dir
+mkdir dir2
+ls
+cat phase3.c
+cat phase3.c
+cat phase3.c
+ls
+cat phase3.c
+ls
+ls
+mkdir dir2
+ls
+cd dir2
+mkdir dir3
+cd ..
+cd dir2/dir3
+prevdir
+prevdir
+cd /
+prevdir
+ls
+ls
+cd dir2/dir3
+prevdir

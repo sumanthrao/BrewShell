@@ -1,0 +1,4 @@
+cd dir2
+cd dir
+cd dir2
+cd dir
